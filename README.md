@@ -1,3 +1,5 @@
+Estimate the value of Pi in Monte carlo simulation in parallel using OPENMP.
+
 | Threads | Elapsed-time (sec) | Speed-up |
 | --- | --- | --- |
 | 1 | 487.843000 | 1 (baseline) |
