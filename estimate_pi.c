@@ -1,5 +1,5 @@
 // set the threads using `set OMP_NUM_THREADS=<no. of threads>`
-// run the program using `gcc -o test -fopenmp Task.c` then `./test`
+// run the program using `gcc -o test -fopenmp estimate_pi.c` then `./test`
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
